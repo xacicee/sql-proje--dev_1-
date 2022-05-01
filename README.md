@@ -1,4 +1,4 @@
-# sql-proje-dev_1-
+# sql-proje-ödev_1-
 SELECT title,description FROM film;  
 SELECT*FROM film  WHERE length>60 and length&lt;90; 
 SELECT* FROM film  WHERE rental_rate=0.99 and (replacement_cost=12.99 or replacement_cost=28.99);   
